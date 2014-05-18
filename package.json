@@ -1,0 +1,16 @@
+{
+    "name": "johnny-five-samples",
+    "description": "Some sample uses of johnny-five",
+    "version": "0.0.1",
+    "private": true,
+    "author": {
+        "name": "Dylan Smith"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dylants/johnny-five-samples.git"
+    },
+    "dependencies": {
+        "johnny-five": "^0.7.34"
+    }
+}
